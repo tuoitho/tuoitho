@@ -22,8 +22,6 @@ https://github.com/user-attachments/assets/23963710-1d73-4169-ade6-27ad1f41b698
   <br>
   🔬 I'm currently studying for my doctorate at HCMC University of Technology and Education
   <br>
-  🔬 I'm currently studying at HCMC University of Technology and Education
-  <br>
   💻 I love writing code and learning anything about it
   <br>
   🤖 I’m currently learning how to integrate AI into web applications
