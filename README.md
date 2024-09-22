@@ -99,4 +99,4 @@ https://github.com/user-attachments/assets/23963710-1d73-4169-ade6-27ad1f41b698
 
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=tuoitho&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuoitho&hide=TeX&layout=compact)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tuoitho.tuoitho)
