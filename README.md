@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/23963710-1d73-4169-ade6-27ad1f41b698
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=009FF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+TTDK+....;Nice+to+meet+you!">
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=700&color=009FF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+TTDK....;Nice+to+meet+you!">
   </a>
 </h1>
 
