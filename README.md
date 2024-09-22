@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/23963710-1d73-4169-ade6-27ad1f41b698
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+      src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+TTDK+....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
