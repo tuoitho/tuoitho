@@ -1,6 +1,5 @@
 https://github.com/user-attachments/assets/23963710-1d73-4169-ade6-27ad1f41b698
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
