@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/23963710-1d73-4169-ade6-27ad1f41b698
   Hi, I'm Tuoi Tho, a passionate self-taught AI developer from Vietnam.
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at HCMC University of Technology and Education
+  🔬 I'm currently studying at HCMC University of Technology and Education
   <br>
   💻 I love writing code and learning anything about it
   <br>
