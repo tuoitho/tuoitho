@@ -4,13 +4,13 @@ https://github.com/user-attachments/assets/23963710-1d73-4169-ade6-27ad1f41b698
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=700&color=009FF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+TTDK....;Nice+to+meet+you!">
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=700&color=009FF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Tri+Le+Dinh....;Nice+to+meet+you!">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.linkedin.com/in/tuoithodakhoc/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://web.facebook.com/tuoithodakhoc2/" title="Facebook Profile"><img width="22" src="images/facebook.png"(https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png)"> HackerRank</a></code>
   <code><a href="" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
