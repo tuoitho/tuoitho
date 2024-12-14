@@ -40,6 +40,10 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="SQL" height="25" src="images/sql-svgrepo-com.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Postman" height="25" src="images/postman.svg"></code>
+  <code><img title="Intellij Iidea" height="25" src="images/intellij-idea.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
 <!--   <code><img title="Django" height="25" src="images/django.png"></code> -->
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -53,8 +57,6 @@
 <!--   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code> -->
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
 <!--   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code> -->
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
 <!--   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code> -->
   <code><img title="JSON" height="25" src="images/json.svg"></code>
 <!--   <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
