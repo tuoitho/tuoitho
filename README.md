@@ -10,7 +10,7 @@
   <code><a href="https://web.facebook.com/tuoithodakhoc2/" title="Facebook Profile"><img width="22" src="images/facebook.png"(https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png)"> Facebook</a></code>
 <!--   <code><a href="" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
   <code><a href="https://www.instagram.com/tuoithodakhoc/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://t.me/tuoithodakhoc" title="Telegram Profile"><img width="22" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"> Instagram</a></code>
+  <code><a href="https://t.me/tuoithodakhoc" title="Telegram Profile"><img width="22" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"> Telegram</a></code>
   <code><a href="https://u.wechat.com/kHoSmn6I3XeCnBMTDvYPOnc?s=1" title="Wechat Profile"><img width="22" src="https://www.svgrepo.com/show/303187/wechat-logo.svg"> Wechat</a></code>
 
 
