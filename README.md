@@ -42,6 +42,7 @@
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="Spring" height="25" src="images/springboot.svg"></code>
+  <code><img title="JWT" height="25" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg"></code>
   <code><img title="Dbeaver" height="25" src="images/Dbeaver.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="SQL" height="25" src="images/sql-svgrepo-com.svg"></code>
