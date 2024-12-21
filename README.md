@@ -71,7 +71,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
 <!--   <code><img title="PHP" height="25" src="images/php.svg"></code> -->
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+<!--   <code><img title="Flask" height="25" src="images/flask.png"></code> -->
 </p>
 <hr>
 
