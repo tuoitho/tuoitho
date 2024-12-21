@@ -43,6 +43,7 @@
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="Spring" height="25" src="images/springboot.svg"></code>
   <code><img title="JWT" height="25" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Dbeaver" height="25" src="images/Dbeaver.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="SQL" height="25" src="images/sql-svgrepo-com.svg"></code>
@@ -54,7 +55,6 @@
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
 <!--   <code><img title="Django" height="25" src="images/django.png"></code> -->
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
 <!--   <code><img title="SASS" height="25" src="images/sass.svg"></code> -->
