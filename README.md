@@ -19,7 +19,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Tri Le Dinh, a passionate self-taught AI developer from Vietnam.
+  Hi, I'm Tri Le Dinh, a passionate software engineer from Vietnam.
   <br>
   <br>
   🔬 I'm currently studying at HCMC University of Technology and Education
