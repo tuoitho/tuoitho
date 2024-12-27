@@ -25,8 +25,8 @@
   🔬 I'm currently studying at HCMC University of Technology and Education
   <br>
   💻 I love writing code and learning anything about it
-<!--   <br>
-<!--   🤖 I’m currently learning how to integrate AI into web applications --> -->
+  <br>
+   🤖 I’m currently learning how to integrate AI into web applications
   <br>
   💬 Ask me anything about from <a href="https://github.com/tuoitho/tuoitho/issues" title="Issues">Here</a>
   <br>
