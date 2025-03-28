@@ -93,9 +93,10 @@
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuoitho&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=40&duration=2000&pause=700&color=009FF7&background=FFFFFF00&center=true&vCenter=true&width=777&height=71&lines=Hi,+I%27m+Le+Dinh+Tri!;A+fullstack+developer!;Nice+to+meet+you!;Hi,+I%27m+Le+Dinh+Tri!;A+backend+developer!;Nice+to+meet+you!" />
   </a>
 </div>
+
 <br>
 
 <img
