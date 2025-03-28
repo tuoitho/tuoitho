@@ -37,7 +37,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
+<!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
@@ -60,11 +60,11 @@
 <!--   <code><img title="SASS" height="25" src="images/sass.svg"></code> -->
 <!--   <code><img title="Gulp" height="25" src="images/gulp.svg"></code> -->
   <code><img title="React" height="25" src="images/react-original.svg"></code>
-<!--   <code><img title="Redux" height="25" src="images/redux.svg"></code> -->
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
 <!--   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code> -->
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
 <!--   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code> -->
-<!--   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code> -->
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
 <!--   <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
 <!--   <code><img title="Android" height="25" src="images/android.svg"></code> -->
