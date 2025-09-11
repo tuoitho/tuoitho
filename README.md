@@ -14,10 +14,19 @@
   <code><a href="https://u.wechat.com/kHoSmn6I3XeCnBMTDvYPOnc?s=1" title="Wechat Profile"><img width="22" src="https://www.svgrepo.com/show/303187/wechat-logo.svg"> Wechat</a></code>
   <code><a href="https://discordapp.com/users/1070699866302468186" title="Discord Profile"><img width="22" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCkY_K9TX2dN21sxK2Np0a2vqnKKHGWP7Ow&s"> Discord</a></code>
   <code><a href="" title="Tiktok Profile"><img width="22" src="https://vectorwiki.com/images/iwkm5__tiktok-icon.svg"> Tiktok</a></code>
-
-
 </h5>
-<br>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/trild" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🎠%20Buy%20me%20a%20ride%20to%20childhood-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" 
+      alt="Buy me a ride to childhood" 
+      width="400">
+  </a>
+</p>
+
+
+
 <p align="center">
   Hi, I'm Tri Le Dinh, a passionate software engineer from Vietnam.
   <br>
